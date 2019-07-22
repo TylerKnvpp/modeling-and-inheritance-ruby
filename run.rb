@@ -1,5 +1,5 @@
-require_relative 'player.rb'
-require_relative 'team.rb'
+require_relative 'lib/player.rb'
+require_relative 'lib/team.rb'
 # require_relative 'instagram.rb'
 require 'pry'
 
